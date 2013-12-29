@@ -1,0 +1,17 @@
+{
+  "name": "Wikibrains",
+  "description": "Make the connection",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "app_icon_16.png", "128": "app_icon_128.png" },
+  "permissions": [
+    "webview",
+    "http://wikibrains.com/",
+    "app.window" 
+  ],
+   "manifest_version": 2
+}
