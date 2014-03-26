@@ -1,6 +1,7 @@
 {
   "name": "Wikibrains",
-  "description": "Make the connection",
+  "short_name":"Wikibrains",
+  "description": "Think with Bubbles",
   "version": "0.1",
   "app": {
     "background": {
