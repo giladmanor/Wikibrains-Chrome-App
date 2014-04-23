@@ -1,7 +1,7 @@
 {
   "name": "Wikibrains",
   "short_name":"Wikibrains",
-  "description": "Think with Bubbles",
+  "description": "Making Info Visual",
   "version": "0.1",
   "app": {
     "background": {
